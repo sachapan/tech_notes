@@ -1,5 +1,8 @@
 # tmux & screen cheat-sheet
 
+## Other useful references:
+[tmuxcheatsheet.com](http://tmuxcheatsheet.com)
+
 Credit to:
 [Dayid](http://www.dayid.org/comp/tm.html)
 
