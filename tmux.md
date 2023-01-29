@@ -19,7 +19,9 @@ Trust the developers and manpage writers more than me. This document is original
 
 | Action 	|  tmux    |	screen   |
 |---------|----------|-----------|
-| start a new session	| tmux OR tmux new OR tmux new-session	| screen |
+| start a new session	| tmux OR 
+tmux new OR 
+tmux new-session	| screen |
 | re-attach a detached session	|tmux attach OR tmux attach-session	| screen-r |
 | re-attach an attached session (detaching it from elsewhere)	| tmux attach -d OR tmux attach-session -d	| screen -dr |
 | re-attach an attached session (keeping it attached elsewhere)	| tmux attach OR tmux attach-session	| screen -x |
