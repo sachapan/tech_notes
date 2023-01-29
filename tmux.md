@@ -19,14 +19,19 @@ Trust the developers and manpage writers more than me. This document is original
 
 | Action 	|  tmux    |	screen   |
 |---------|----------|-----------|
-| start a new session	| tmux OR 
-tmux new OR 
-tmux new-session	| screen |
-| re-attach a detached session	|tmux attach OR tmux attach-session	| screen-r |
-| re-attach an attached session (detaching it from elsewhere)	| tmux attach -d OR tmux attach-session -d	| screen -dr |
-| re-attach an attached session (keeping it attached elsewhere)	| tmux attach OR tmux attach-session	| screen -x |
-| detach from currently attached session |	^b d OR ^b :detach	| ^a ^d OR ^a :detach |
-| rename-window to newname |	^b , <newname> OR ^b :rename-window <newn>	| ^a A <newname> |
+| start a new session	| tmux | screen |
+|                     | tmux new | |
+|                     | tmux new-session |  |
+| re-attach a detached session	|tmux attach | screen-r |
+|                     | tmux attach-session	 | |
+| re-attach an attached session (detaching it from elsewhere)	| tmux attach -d | screen -dr |
+|                                                             | tmux attach-session -d	|  |
+| re-attach an attached session (keeping it attached elsewhere)	| tmux attach | screen -x |
+|                                                               | tmux attach-session	| |
+| detach from currently attached session |	^b d | ^a ^d |
+|                                         | ^b :detach | ^a :detach |
+| rename-window to newname |	^b , <newname> | ^a A <newname> |
+|                          | ^b :rename-window <newn>	| |
 | list windows	| ^b w	| ^a w |
 | list windows in chooseable menu |	|	^a " | 
 | go to window #	| ^b #	| ^a # |
@@ -34,14 +39,17 @@ tmux new-session	| screen |
 | go to next window	| ^b n	| ^a n |
 | go to previous window	| ^b p	| ^a p |
 | see keybindings |	^b ? |	^a ? |
-| list sessions	| ^b s OR tmux ls OR tmux list-sessions |	screen -ls |
+| list sessions	| ^b s  |	screen -ls |
+|               | tmux ls | |
+|               | tmux list-sessions | |
 | toggle visual bell	|	| ^a ^g |
 | create another window	| ^b c	| ^a c |
 | exit current shell/window |	^d	| ^d |
 | split window/pane horizontally	| ^b " |	^a S |
 | split window/pane vertically	| ^b %	| ^a `|` |
 | switch to other pane	| ^b o |	^a <tab> |
-| kill the current pane	| ^b x OR (logout/^D) | |	
+| kill the current pane	| ^b x | |
+|                       | (logout/^D) | |	
 | collapse the current pane/split (but leave processes running)	| |	^a X |
 | cycle location of panes	| ^b ^o | |	
 | swap current pane with previous	| ^b { |	|
