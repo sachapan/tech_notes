@@ -28,3 +28,8 @@ When copying from one volume to another:
 ## Remove all non-current kernel packages on Ubuntu:
 
 `dpkg -l linux-* | awk '/^ii/{ print $2}' | grep -v -e `uname -r | cut -f1,2 -d"-"` | grep -e [0-9] | xargs sudo apt-get -y purge`
+
+## Monitor progress of dd action
+
+`while pgrep ^dd; do pkill -INFO dd; sleep 10; done`
+
