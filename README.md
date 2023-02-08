@@ -8,6 +8,8 @@ A place to keep random techie details from the day to day.
 
 [ansible](ansible.md)
 
+[docker](docker.md)
+
 [tmux and screen](tmux.md)
 
 [windows tips and tricks](windows.md)
