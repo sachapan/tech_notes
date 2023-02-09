@@ -13,3 +13,5 @@ A place to keep random techie details from the day to day.
 [tmux and screen](tmux.md)
 
 [windows tips and tricks](windows.md)
+
+[MS exchange](exchange.md)
