@@ -29,6 +29,8 @@ Allow non-tls for some relays
 
 ## Direct some domains to alternate relayhost
 
+In my case, I route some messages to a [mailrise](https://github.com/YoRyan/mailrise) instance on my LAN.
+
 `echo "mailrise.xyz smtp:mailrise_host" >> /etc/postfix/transport`
 
 `postmap /etc/postfix/transport`
@@ -52,5 +54,7 @@ flush queue
 Delete a message from the queue
 
 `postsuper -d <MESSAGEID>`
+
+where MESSAGEID is obtained from `postqueue -p`
 
   
