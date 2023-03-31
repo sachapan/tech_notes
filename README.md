@@ -22,6 +22,12 @@ A place to keep random techie details from the day to day.
 
 [MS exchange](exchange.md)
 
+
+## Audio and Video
+
+[Audio and Video](audio_video.md)
+
+
 ## Project and organizational related
 
 [Project management](projectmgt.md)
