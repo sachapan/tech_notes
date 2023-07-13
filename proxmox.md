@@ -7,3 +7,5 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 From <https://tteck.github.io/Proxmox/> 
 
 [Import qcow2 images](https://ostechnix.com/import-qcow2-into-proxmox/)
+
+Slow book times on containers?  Change IPv6 to SLAAC.
