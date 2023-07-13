@@ -8,8 +8,9 @@
 
 [Learn kanban from a coffee shop](https://youtu.be/Lib1vFmfCng)
 
-## kanban software solutions
+## software solutions
 
-[Trello](https://trello.com)
-[Teamhood](https://teamhood.com/)
+- [Trello](https://trello.com)
+- [Kanban Zone](https://kanbanzone.io/)
+- [Teamhood](https://teamhood.com/)
 
