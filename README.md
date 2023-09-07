@@ -4,26 +4,19 @@ A place to keep random techie details from the day to day.
 
 ## Linux-ie stuff
 
-[linux commands](linux_cmds.md)
-
-[git](git.md)
-
-[ansible](ansible.md)
-
-[docker](docker.md)
-
-[tmux and screen](tmux.md)
-
-[postfix](postfix.md)
+[ansible, ](ansible.md)
+[docker, ](docker.md)
+[git, ](git.md) 
+[linux commands, ](linux_cmds.md)
+[postfix, ](postfix.md)
+[tmux and screen, ](tmux.md)
+[vim ](vim.md)
 
 ## Windows-ie stuff
 
-[windows tips and tricks](windows.md)
-
-[WSL](wsl.md)
-
-[MS exchange](exchange.md)
-
+[windows tips and tricks, ](windows.md)
+[WSL, ](wsl.md)
+[MS exchange, ](exchange.md)
 [VirtualBox](virtualbox.md)
 
 ## Audio and Video
