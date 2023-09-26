@@ -33,3 +33,7 @@ When copying from one volume to another:
 
 `while pgrep ^dd; do pkill -INFO dd; sleep 10; done`
 
+## sed snippet to remove blank lines and those that begin with a digit, and finally deal with unix2dos carriage return monkey business.
+
+`sed ''/^$/d /^[0-9]/d s/\r//g' < input.txt > output.txt`
+
