@@ -19,6 +19,9 @@ A place to keep random techie details from the day to day.
 [MS exchange, ](exchange.md)
 [VirtualBox](virtualbox.md)
 
+## Programming - which I do not do much of these days
+
+[python squeezes](python.md)
 ## Audio and Video
 
 [Audio and Video](audio_video.md)
