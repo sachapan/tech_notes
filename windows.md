@@ -1,5 +1,10 @@
 # Windows stuff goes here
 
+
+## Disable Bitlocker
+
+Launch an elevated command prompt and run the command manage-bde off C:, changing C: as necessary.
+
 ## Lock screen images are cached here:
 
 `%LocalAppData%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets`
