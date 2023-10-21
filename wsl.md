@@ -1,8 +1,5 @@
-## Disable Bitlocker encryption 
 
-Launch an elevated command prompt and run the command manage-bde off C:, changing C: as necessary.
-
-# WSL
+## WSL
 
 Mount an smb share:
 
