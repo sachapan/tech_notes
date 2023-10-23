@@ -3,7 +3,8 @@
 
 ## Disable Bitlocker
 
-Launch an elevated command prompt and run the command manage-bde off C:, changing C: as necessary.
+Launch an elevated command prompt and run the command:
+`manage-bde off C:`
 
 ## Lock screen images are cached here:
 
