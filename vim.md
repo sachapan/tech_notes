@@ -2,6 +2,13 @@
 
 ## Commenting a number of lines.
 
+### There's a [vim plugin](https://github.com/junegunn/vim-plug) for that....
+
+[vim commentary](https://github.com/tpope/vim-commentary)
+
+
+### The Old ways
+
 First, move the cursor to the first char of the first line in block code you want to comment, then type Ctrl + v.
 
 Then vim will go into VISUAL BLOCK mode.
@@ -10,7 +17,7 @@ Use j to move the cursor down until you reach the last line of your code block. 
 
 Now vim goes to INSERT mode and the cursor is at the first char of the first line. Finally, type # then ESC and the code block is now commented.
 
-### Alternate way I usually choose
+### Alternate way I used to use
 
 Select the lines you'd like to comment out
 Then:
