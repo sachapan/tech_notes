@@ -21,3 +21,6 @@ if __name__ == "__main__":
 session = HTMLSession()
 r = session.get('http://www.example.com')
 r.html.render() `
+
+## Data Science
+[Excel and pandas](https://www.dataquest.io/blog/excel-and-pandas/)
