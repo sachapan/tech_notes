@@ -22,3 +22,19 @@ Now vim goes to INSERT mode and the cursor is at the first char of the first lin
 Select the lines you'd like to comment out
 Then:
 `:s/^/# /`
+
+## neovim
+
+### Install on debian based distro because the package maintainers don't seem to include virsion .9
+
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+chmod u+x nvim.appimage
+./nvim.appimage
+
+./nvim.appimage --appimage-extract
+./squashfs-root/AppRun --version
+
+# Optional: exposing nvim globally.
+sudo mv squashfs-root /
+sudo ln -s /squashfs-root/AppRun /usr/bin/nvim
+nvim
