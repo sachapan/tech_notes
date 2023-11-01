@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
 
 ## Generate a standalone executable from a python script
-[realpython article][https://realpython.com/pyinstaller-python/)
+[realpython article](https://realpython.com/pyinstaller-python/)
 
 ## Using requests with javascript
 [From this article](https://thewebdev.info/2022/04/16/how-to-use-python-requests-with-javascript-pages/)
