@@ -11,3 +11,6 @@
 ## Linode deployment
 `https://www.linode.com/docs/guides/deploy-linodes-using-ansible/`
 
+## Using apt-key
+
+Which is being [deprecated.](https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible)
