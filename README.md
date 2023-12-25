@@ -13,6 +13,11 @@ A place to keep random techie details from the day to day.
 - [tmux and screen](tmux.md)
 - [vim](vim.md)
 
+## Network-ie stuff
+
+- [testing](networktest.md)
+
+
 ## Windows-ie stuff
 
 - [windows tips and tricks](windows.md)
