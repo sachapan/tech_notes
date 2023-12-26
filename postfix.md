@@ -15,12 +15,12 @@ Enforce tls
 
 in main.cf:
 
-`smtp_use_tls = yes
-smtp_sasl_auth_enable = yes
-smtp_sasl_security_options = noanonymous
-smtp_sasl_tls_security_options = noanonymous
-smtp_sasl_password_maps = hash:/etc/postfix/sasl/sasl_passwd
-smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt`
+smtp_use_tls = yes  
+smtp_sasl_auth_enable = yes  
+smtp_sasl_security_options = noanonymous  
+smtp_sasl_tls_security_options = noanonymous  
+smtp_sasl_password_maps = hash:/etc/postfix/sasl/sasl_passwd  
+smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt  
 
 
 Allow non-tls for some relays
