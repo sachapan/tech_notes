@@ -15,6 +15,6 @@
 
 Which is being [deprecated.](https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible)
 
-## Semafore ansible GUI
+## Semaphore ansible GUI
 
-(https://docs.semui.co/)
+[on my investigate and test list](https://docs.semui.co/)
