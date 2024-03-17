@@ -13,6 +13,8 @@ Enforce tls
 
 `postmap /etc/postfix/tls_policy`
 
+`sudo apt install libsasl2-modules`
+
 in main.cf:
 
 smtp_use_tls = yes  
