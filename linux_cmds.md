@@ -4,6 +4,20 @@
 Some/many of these are quite dated but I preserve them nonetheless.
 
 
+## journal log management
+
+Current usage of journal files
+
+`sudo journalctl --disk-usage`
+
+One time rotate out journal files until current remaining is 500M
+
+`sudo journalctl --rotate --vacuum-size=500M`
+
+Set ongoing limit to 500M
+
+`SysemMaxUse=500M` in `/etc/systemd/journald.conf`
+
 ## xargs dealing with spaces
 
 Specify the delimiter as only newline.
