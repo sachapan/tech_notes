@@ -6,6 +6,9 @@ From <https://tteck.github.io/Proxmox/>:
 
 `bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"`
 
+## Removing the subscription nag
+
+https://github.com/foundObjects/pve-nag-buster
 
 ## [Import qcow2 images](https://ostechnix.com/import-qcow2-into-proxmox/)
 
