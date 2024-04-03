@@ -8,7 +8,7 @@ From <https://tteck.github.io/Proxmox/>:
 
 ## Removing the subscription nag
 
-[My ansible script](https://raw.githubusercontent.com/sachapan/ansible/main/playbooks/proxmox-nag.yml)
+[My ansible script](https://github.com/sachapan/ansible/blob/main/playbooks/proxmox-nag.yml)
 
 https://github.com/foundObjects/pve-nag-buster
 
