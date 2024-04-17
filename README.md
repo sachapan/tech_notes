@@ -7,6 +7,7 @@ A place to keep random techie details from the day to day.
 - [ansible](ansible.md)
 - [docker](docker.md)
 - [git](git.md)
+- [pi-hole](pihole.md)
 - [proxmox](proxmox.md)
 - [linux commands](linux_cmds.md)
 - [postfix](postfix.md)
