@@ -1,1 +1,0 @@
-[Change your Microsoft 365 email address to use your custom domain](https://learn.microsoft.com/en-us/microsoft-365/admin/email/change-email-address?view=o365-worldwide#change-your-email-address-to-use-your-custom-domain-using-the-microsoft-365-admin-center)
