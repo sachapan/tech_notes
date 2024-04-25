@@ -1,17 +1,40 @@
-# Welcome to MkDocs
+# Tech notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A place to keep random techie details from the day to day.
 
-## Commands
+## Linux-ie stuff
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [ansible](ansible.md)
+- [docker](docker.md)
+- [git](git.md)
+- [pi-hole](pihole.md)
+- [proxmox](proxmox.md)
+- [linux commands](linux_cmds.md)
+- [postfix](postfix.md)
+- [tmux and screen](tmux.md)
+- [vim](vim.md)
 
-## Project layout
+## Network-ie stuff
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [General](networking.md)
+- [urbackup](urbackup.md)
+
+## Windows-ie stuff
+
+- [windows tips and tricks](windows.md)
+- [WSL](wsl.md)
+- [MS exchange](exchange.md)
+- [VirtualBox](virtualbox.md)
+
+## Programming - which I do not do much of these days
+
+[python squeezes](python.md)
+
+## Audio and Video
+
+[Audio and Video](audio_video.md)
+
+
+## Project and organizational related
+
+[Project management](projectmgt.md)
