@@ -1,5 +1,7 @@
 # General project management
 
+I have started using [logseq.md].
+
 [Online gantt chart tool](http://teamgantt.com)
 
 # Kanban
