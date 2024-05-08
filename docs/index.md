@@ -5,6 +5,7 @@ A place to keep random techie details from the day to day.
 ## Linux-ie stuff
 
 - [ansible](ansible.md)
+- [asterisk](asterisk.md)
 - [docker](docker.md)
 - [git](git.md)
 - [pi-hole](pihole.md)
