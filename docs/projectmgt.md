@@ -1,8 +1,6 @@
 # General project management
 
-I have started using [logseq.md].
-
-[Online gantt chart tool](http://teamgantt.com)
+I have started using [logseq](logseq.md) as a personal knowledge base/second brain.  I posted an article on my use thereof: [here](https://sachapan.github.io/blog/)
 
 # Kanban
 
@@ -16,3 +14,4 @@ I have started using [logseq.md].
 - [Kanban Zone](https://kanbanzone.io/)
 - [Teamhood](https://teamhood.com/)
 
+[Online gantt chart tool](http://teamgantt.com)
