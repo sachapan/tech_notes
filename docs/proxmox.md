@@ -21,3 +21,5 @@ Slow boot times on containers?  Change IPv6 to SLAAC.
 [Resolve error: You have not turned on protection against thin pools running out of space.](https://www.thegeekdiary.com/how-to-enable-the-automatic-extension-for-a-thin-lvm-volume/)
 
 [Adding new thinpool](https://www.diytechguru.com/2020/12/12/create-lvm-thin-pool-in-proxmox/)
+
+I found [this article](https://static.xtremeownage.com/blog/2024/proxmox---debian-cloud-init-templates/#clone) very helpful in further automating vm creation with cloudinit.
