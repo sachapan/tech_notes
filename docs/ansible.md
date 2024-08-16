@@ -7,6 +7,8 @@
 | yaml | `ansible-inventory -i inventory.ini -y --list > inventory.yaml` |
 | json | `ansible-inventory -i inventory.ini --list > inventory.yaml` |
 
+## Cache ssh passphrase
+`eval "$(ssh-agent -s)" && ssh-agent add ~/.ssh/id_rsa`
 
 ## Linode deployment
 `https://www.linode.com/docs/guides/deploy-linodes-using-ansible/`
