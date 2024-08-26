@@ -13,3 +13,9 @@
 #### speedtest
 
 - [without the cruft](https://librespeed.org/)
+
+#### TLS 
+
+- Test certificate chain
+  `openssl\ s_client\ -showcerts\ -connect google.com:443`
+
