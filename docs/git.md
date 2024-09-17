@@ -6,6 +6,11 @@ Run `git reset <file>` or `git reset` to unstage all changes.
 
 In older versions of git, the commands were git reset HEAD <file> and git reset HEAD respectively. This was changed in Git 1.8.2
 
+## Removing a file/directory from git without deleting it.
+A file/directory (e.g. tmp) has been added to .gitignore but still shows in `git status`
+
+`git rm -r --cached tmp`
+
 ## Dealing with a diverging branch and re-syncing
 
 fatal: The upstream branch of your current branch does not match
