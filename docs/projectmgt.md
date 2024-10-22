@@ -1,4 +1,4 @@
-# General project management
+# Project Management
 
 I have started using [logseq](logseq.md) as a personal knowledge base/second brain.  I posted an article on my use thereof: [here](https://sachapan.github.io/blog/)
 
