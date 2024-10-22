@@ -1,4 +1,4 @@
-# Ansible stuff goes here
+# Ansible
 
 ## Convert inventory ini to yaml or json
 
