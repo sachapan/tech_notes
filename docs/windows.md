@@ -27,3 +27,8 @@ Launch an elevated command prompt and run the command:
             },
             "keys": "ctrl+shift+c"
         },
+
+## Moving the Recovery Partition
+
+https://thedxt.ca/2023/06/moving-windows-recovery-partition-correctly/
+
