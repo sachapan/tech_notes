@@ -24,6 +24,7 @@ A place to keep random techie details from the day to day.
 
 - [windows tips and tricks](windows.md)
 - [WSL](wsl.md)
+- [MS365](ms365.md)
 - [MS exchange](exchange.md)
 - [VirtualBox](virtualbox.md)
 
