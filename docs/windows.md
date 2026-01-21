@@ -1,5 +1,8 @@
 # Windows stuff goes here
 
+## Repair Windows 11 update blocked previewing pdf
+
+`Get-ChildItem -Path "$env:USERPROFILE\Downloads" -Filter *.pdf -Recurse | Unblock-File   `
 
 ## Disable Bitlocker
 
