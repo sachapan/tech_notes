@@ -28,6 +28,10 @@ A place to keep random techie details from the day to day.
 - [MS exchange](exchange.md)
 - [VirtualBox](virtualbox.md)
 
+## Cyber Security
+
+[acronyms](cyber-nyms.md)
+
 ## Programming - which I do not do much of these days
 
 [python squeezes](python.md)
