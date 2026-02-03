@@ -2,7 +2,7 @@
 
 A place to keep random techie details from the day to day.
 
-## Linux-ie stuff
+## Linux
 
 - [ansible](ansible.md)
 - [asterisk](asterisk.md)
@@ -15,12 +15,12 @@ A place to keep random techie details from the day to day.
 - [tmux and screen](tmux.md)
 - [vim](vim.md)
 
-## Network-ie stuff
+## Network
 
 - [General](networking.md)
 - [urbackup](urbackup.md)
 
-## Windows-ie stuff
+## Windows
 
 - [windows tips and tricks](windows.md)
 - [WSL](wsl.md)
