@@ -9,6 +9,12 @@
 Launch an elevated command prompt and run the command:
 `manage-bde -off C:`
 
+## Windows recall 
+
+Display status in elevated command prompt:
+
+`DISM /Online /Get-FeatureInfo /FeatureName:Recall   `
+
 ## Lock screen images are cached here:
 
 `%LocalAppData%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets`
