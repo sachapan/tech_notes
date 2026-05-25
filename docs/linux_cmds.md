@@ -24,6 +24,11 @@ Specify the delimiter as only newline.
 
 `xargs -d "\n"`
 
+## Regex for ipv6 addresses
+
+`grep -E '([0-9a-fA-F]{1,4}:){4,}[0-9a-fA-F]{0,4}'
+`
+
 ## Find all symlinks.
 
 Useful if, for example, you destroyed all of them on a filesystem you were trying to migrate from one hard disk to another and now you need to recover them from the backup that you did take before being an idiot:
